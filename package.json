@@ -1,0 +1,23 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "run":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan1130/assesment.git"
+  },
+  "author": "Pavan Bandaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan1130/assesment/issues"
+  },
+  "homepage": "https://github.com/pavan1130/assesment#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
